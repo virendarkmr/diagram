@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T09:25:15.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="7_LzWlaLtvWM8fJt2UTS" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T09:30:49.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="Tsi_LsEjfnGWIrR-opfc" version="14.2.3" type="github">
   <diagram id="vkKwDyZc1Qu9mqFmAv6L" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U69VuQlC7xh0xsIrR6k7-3" value="" style="endArrow=none;html=1;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1" source="U69VuQlC7xh0xsIrR6k7-29">
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-3" value="" style="endArrow=none;html=1;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1" source="U69VuQlC7xh0xsIrR6k7-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="230" as="sourcePoint" />
             <mxPoint x="780" y="230" as="targetPoint" />
@@ -136,6 +136,39 @@
             <mxPoint x="430" y="230" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-42" value="Master&lt;br&gt;(SOT)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="215" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-43" value="Release 123" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-44" value="Release&amp;nbsp; 2.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-45" value="Release 123 build" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="195" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-46" value="Hot Fix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="544" y="289" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-47" value="Hot Fix Build&amp;nbsp; for Prod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="200" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-48" value="Hot Fix merged in &lt;br&gt;current release" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-49" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6666FF;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="220" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-50" value="" style="endArrow=none;html=1;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1" source="U69VuQlC7xh0xsIrR6k7-29" target="U69VuQlC7xh0xsIrR6k7-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="230" as="sourcePoint" />
+            <mxPoint x="780" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U69VuQlC7xh0xsIrR6k7-51" value="Release 200 Build" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="200" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
